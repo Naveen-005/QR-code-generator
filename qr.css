@@ -1,0 +1,42 @@
+.box {
+    width: 100px;
+    height: 70px;
+    background-color: rgb(243, 178, 138);
+    position: relative;
+    
+  }
+  .small_box{
+    width:776px;
+    height:2cm;
+    background-color:rgb(89, 159, 118);
+    position:relative;
+    border:5.2cm;
+    border-color:rgb(175, 234, 214);
+    border-style:double;
+    padding:-1cm;
+     
+  }
+  .bow
+  {
+    border:1cm;
+    border-color:rgb(84, 18, 18);
+    border-style:double;
+    position: relative;
+    width:30.9cm;
+    left: 0.3cm;
+    
+  }
+  #head
+  {
+    position: relative;
+    top: -15px;
+     font-family:Impact, 'Arial Narrow Bold', sans-serif;
+     color:rgba(228, 24, 27, 0.532);
+     left: 250px;
+  }
+  #content
+  {
+    width: 99%;
+ }
+ 
+
