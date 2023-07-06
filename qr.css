@@ -1,20 +1,29 @@
 .box {
     width: 100px;
-    height: 200px;
-    background-color: rgb(4, 4, 4);
+    height: 70px;
+    background-color: rgb(243, 178, 138);
     position: relative;
     
   }
   .small_box{
-    width:300px;
-    height: 4cm;
-    background-color:rgb(128, 72, 72);
+    width:776px;
+    height:2cm;
+    background-color:rgb(89, 159, 118);
     position:relative;
-    left:200px;
-    top:31px;
-    border:6cm;
-    border-color: rgb(177, 10, 10);
-    border-style:groove;
+    border:5.2cm;
+    border-color:rgb(175, 234, 214);
+    border-style:double;
+    padding:-1cm;
+     
+  }
+  .bow
+  {
+    border:1cm;
+    border-color:rgb(84, 18, 18);
+    border-style:double;
+    position: relative;
+    width:30.9cm;
+    left: 0.3cm;
     
   }
   #head
@@ -22,11 +31,12 @@
     position: relative;
     top: -15px;
      font-family:Impact, 'Arial Narrow Bold', sans-serif;
-     color:black;
-     left: 20px;
+     color:rgba(228, 24, 27, 0.532);
+     left: 250px;
   }
   #content
   {
-    width: 97%;
+    width: 99%;
  }
  
+
